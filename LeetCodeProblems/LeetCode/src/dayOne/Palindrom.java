@@ -15,10 +15,10 @@ public class Palindrom {
     public static void main(String[] args) {
         // testing the number
         // we can also test by creating testing files using the junit test
-        System.out.println(isPalindrome(121));
+        System.out.println(isPalindrome(121));  // true
 
 
-        System.out.println(isPalindrome(-121));
+        System.out.println(isPalindrome(-121));  // false
 
 
     }
