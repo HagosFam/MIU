@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="556b456d-c8bc-4662-8228-e312c9c558ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/AdvancedJavaConcepts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/out/production/AdvancedJavaConcepts/Collections/Collections.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/out/production/AdvancedJavaConcepts/Collections/SetCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/out/production/AdvancedJavaConcepts/Generics/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/out/production/AdvancedJavaConcepts/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/out/production/AdvancedJavaConcepts/MultiThreading/MultiThreading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/out/production/AdvancedJavaConcepts/OOP/Abstraction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/out/production/AdvancedJavaConcepts/OOP/Abstractions/Abstraction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/out/production/AdvancedJavaConcepts/OOP/Abstractions/Interface1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/out/production/AdvancedJavaConcepts/OOP/Encupsulation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/out/production/AdvancedJavaConcepts/OOP/Inheritance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/out/production/AdvancedJavaConcepts/OOP/ObjectClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/out/production/AdvancedJavaConcepts/OOP/Polymorphism/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/out/production/AdvancedJavaConcepts/OOP/Polymorphism/OverLoading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/out/production/AdvancedJavaConcepts/OOP/Polymorphism/Polymorphism.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/src/Annotations/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/src/Collections/Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/src/Collections/SetCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/src/Generics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/src/MultiThreading/MultiThreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/src/OOP/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/src/OOP/Abstractions/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/src/OOP/Abstractions/Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/src/OOP/Encupsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/src/OOP/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/src/OOP/ObjectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/src/OOP/Polymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/src/OOP/Polymorphism/OverLoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Personal Projects/AdvancedJavaConcepts/src/OOP/Polymorphism/Polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../LeetCodeProblems/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../LeetCodeProblems/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../LeetCodeProblems/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../LeetCodeProblems/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../LeetCodeProblems/untitled/LeetCodeProblems.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../LeetCodeProblems/untitled/src/dayOne/Palindrom.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\vedam\.m2\wrapper\dists\apache-maven-3.5.3-bin\2c22a6s60afpuloj4v181qvild\apache-maven-3.5.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jSxg8ovQNvgq5dkd0vuBJAQpDd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Projects/MIU/Course Projects/EA/Lab5/PartC/BankApplication",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "c7303a638290f56ea4ca08144e5bb609",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\MIU\Course Projects\EA\Lab2\BankApplication\src\main\java\bank" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="bank" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bank.Application" />
+      <module name="BankApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="556b456d-c8bc-4662-8228-e312c9c558ef" name="Default Changelist" comment="" />
+      <created>1603811406354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603811406354</updated>
+      <workItem from="1680703453885" duration="5050000" />
+      <workItem from="1680961003645" duration="674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

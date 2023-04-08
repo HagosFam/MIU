@@ -1,0 +1,50 @@
+/*C13*/SET SCHEMA PUBLIC
+drop table if exists address CASCADE 
+drop table if exists customer CASCADE 
+drop table if exists order_table CASCADE 
+drop table if exists order_table_orderlines CASCADE 
+drop table if exists order_line CASCADE 
+drop table if exists product CASCADE 
+drop sequence hibernate_sequence if exists
+create sequence hibernate_sequence start with 1 increment by 1
+create table address (id bigint not null, city varchar(255), country varchar(255), street varchar(255), zip varchar(255), primary key (id))
+create table customer (id bigint not null, firstname varchar(255), lastname varchar(255), address_id bigint, primary key (id))
+create table order_table (id bigint not null, date varchar(255), ordernr varchar(255), status varchar(255), customer_id bigint, primary key (id))
+create table order_table_orderlines (order_id bigint not null, orderlines_id bigint not null)
+create table order_line (id bigint not null, quantity integer not null, product_id bigint, primary key (id))
+create table product (id bigint not null, description varchar(255), name varchar(255), price double not null, primary key (id))
+alter table order_table_orderlines add constraint UK_f6dxjeliupa80miuir7n95wye unique (orderlines_id)
+alter table customer add constraint FKglkhkmh2vyn790ijs6hiqqpi foreign key (address_id) references address
+alter table order_table add constraint FKdit09e676nqbguvt1k1w8mlj2 foreign key (customer_id) references customer
+alter table order_table_orderlines add constraint FKsto1iblkjkcf8nhx0jfqvrd30 foreign key (orderlines_id) references order_line
+alter table order_table_orderlines add constraint FKb7weieem87amico0xgtuh1vr2 foreign key (order_id) references order_table
+alter table order_line add constraint FKpf904tci8garypkvm32cqupye foreign key (product_id) references product
+INSERT INTO CUSTOMER VALUES(2,'Frank','Brown',NULL)
+INSERT INTO ORDER_TABLE VALUES(1,'12/10/06','234743','open',2)
+INSERT INTO PRODUCT VALUES(4,'Good book on Hibernate','Hibernate 3',35.5E0)
+INSERT INTO ORDER_LINE VALUES(3,2,4)
+INSERT INTO PRODUCT VALUES(6,'Album from 1995','The best of Queen',12.98E0)
+INSERT INTO ORDER_LINE VALUES(5,4,6)
+INSERT INTO ORDER_TABLE_ORDERLINES VALUES(1,3)
+INSERT INTO ORDER_TABLE_ORDERLINES VALUES(1,5)
+ALTER SEQUENCE PUBLIC.HIBERNATE_SEQUENCE RESTART WITH 7
+COMMIT
+DISCONNECT
+/*C14*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C15*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C16*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C17*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C18*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C19*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C20*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C21*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C22*/SET SCHEMA PUBLIC
+DISCONNECT
