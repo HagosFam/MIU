@@ -6,6 +6,7 @@ import bank.domain.AccountEntry;
 import java.util.*;
 
 public class AccountAdapter {
+    // this needs to be chacked again
     public static Account getAccountFromAccountDTO(AccountDTO accountDto){
         Account account = new Account();
         account.setAccountnumber(accountDto.getAccountnumber());
