@@ -63,7 +63,7 @@ public class Book {
 		return publisher;
 	}
 
-	public void setPublisher(Publisher publisher) {
+	public void setPublisher(C publisher) {
 		this.publisher = publisher;
 	}
 
